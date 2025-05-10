@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symadev&label=Profile%20views&color=0e75b6&style=flat" alt="symadev" /> </p>
 
-- 🌱 I’m currently learning **CSS Framework, React Js,  Both Front-end & Back-end Engineering**
+- 🌱 I’m currently learning **CSS frameworks, React.js, and full-stack web development**
 
 
 
