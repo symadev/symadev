@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966" alt="Developer GIF" width="100%" />
+  <img src="https://preview.redd.it/for-hire-pixel-art-commissions-open-landscape-portrait-v0-e11ryf5hfgpe1.gif?width=640&crop=smart&auto=webp&s=41b9a87c79dba653d6faee042910d7b6cab097c1" alt="Pixel GIF" width="100%" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🌱 Currently learning: **CSS frameworks, React.js, and full-stack web development**
+- 🔭 Currently learning: **CSS frameworks, React.js, and full-stack web development**
 - 👨‍💻 Most used stack: `React`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`
 - 💬 Ask me about: **MERN stack, API integration, responsive UI**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/symasultana) | [Facebook](https://facebook.com/syma.sultana) | [Instagram](https://instagram.com/midnighttwinkle_)
@@ -36,13 +36,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=symadev&theme=radical" />
-</p>
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&title_color=ff6ec7&icon_color=ffcc70" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&bg_color=00000000&hide_border=true&title_color=ff6ec7" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=symadev&theme=radical&hide_border=true&background=00000000&ring=ffcc70&fire=ff6ec7&currStreakLabel=ffffff" />
+
+</div>
 
 ---
 
