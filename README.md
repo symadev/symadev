@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fSgJfqjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ecpp8mtv96lw6sbxty6p.gif" width="300" alt="Developer GIF" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fSgJfqjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ecpp8mtv96lw6sbxty6p.gif" alt="Developer GIF" style="max-width: 100%;" />
 </p>
+
 
 <p align="center">
   🌟 I build modern web apps using JavaScript, React, Node.js, and MongoDB. I’m also exploring cloud technologies and building a strong development portfolio.<br>
