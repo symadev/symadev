@@ -1,72 +1,66 @@
-[![masterhead](https://t3.ftcdn.net/jpg/04/42/44/98/360_F_442449827_ispo2oI83ffX0TSax4Pgdd7xkqCA5ThA.jpg)
 <h1 align="center">Hi 👋, I'm Syma</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*RpCQiI2MZLHw_6nuezfjbg.gif">
+<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symadev&label=Profile%20views&color=0e75b6&style=flat" alt="symadev" /> </p>
-
-- 🌱 I’m currently learning **CSS frameworks, React.js, and full-stack web development**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://facebook.com/syma.sultana" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syma sultana" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_syma_sultana_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_syma_sultana_" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/symasultana/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fSgJfqjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ecpp8mtv96lw6sbxty6p.gif" width="300" alt="Developer GIF" />
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<p align="center">
+  🌟 I build modern web apps using JavaScript, React, Node.js, and MongoDB. I’m also exploring cloud technologies and building a strong development portfolio.<br>
+  💼 Final year CSE student | 📍 Based in Bangladesh
 </p>
 
+---
 
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
- <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+### 🧠 About Me
 
+- 🔭 Currently working on: **SkillSync – AI Career Portfolio & Resume Builder**
+- 🌱 Learning: **GraphQL, Cloud Deployment, and System Design**
+- 👨‍💻 Most used stack: `React`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`
+- 💬 Ask me about: **MERN stack, API integration, responsive UI**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/symasultana) | [Facebook](https://facebook.com/syma.sultana) | [Instagram](https://instagram.com/midnighttwinkle_)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symadev&show_icons=true&locale=en&layout=compact" alt="symadev" /></p>
+### 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&locale=en" alt="symadev" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=symadev&theme=radical" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&" alt="symadev" /></p>
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/symasultana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ Thank you for visiting my profile! Stay curious and keep building!
