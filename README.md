@@ -50,11 +50,7 @@
 
 ---
 
-### ⚡ Recent GitHub Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=symadev&theme=react-dark&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-</p>
+### ⚡ GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=symadev&theme=github_dark" alt="GitHub Profile Summary" />
@@ -69,6 +65,14 @@
   <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://medium.com/@symasultana02"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/symadev/symadev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
