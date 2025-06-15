@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syma</h1>
+
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile view counter" />
+</p>
 
 <p align="center">
   <img src="https://preview.redd.it/for-hire-pixel-art-commissions-open-landscape-portrait-v0-e11ryf5hfgpe1.gif?width=640&crop=smart&auto=webp&s=41b9a87c79dba653d6faee042910d7b6cab097c1" alt="Pixel GIF" width="100%" height="80%" />
@@ -53,18 +57,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/symasultana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@symasultana02"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-</p>
-
----
-
-### 🧮 Visitor Counter
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/symadev/symadev/main/assets/visitor-counter.png" alt="Visitor Counter" />
+  <a href="https://linkedin.com/in/symasultana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@symasultana02"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
