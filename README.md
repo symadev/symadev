@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Syma</h1>
-
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile view counter" />
