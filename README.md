@@ -11,11 +11,16 @@
 
 
 
-### 🧠 About Me
+### 👩‍💻 About Me
 
-- 🔭 Currently learning: **CSS frameworks, React.js, and full-stack web development**
-- 👨‍💻 Most used stack: `React`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`
+
+- 🔥 Strong foundation in `JavaScript`,`React.js`, `Node.js`  and `Express.js`
 - 💬 Ask me about: **MERN stack, API integration, responsive UI**
+- 🎯 Interested in solving real-world problems with tech
+- 📚 Lifelong learner and tech enthusiast
+
+
+
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/symasultana) | [Facebook](https://facebook.com/syma.sultana) | [Instagram](https://instagram.com/midnighttwinkle_)
 
 ---
