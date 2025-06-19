@@ -21,8 +21,7 @@
 
 
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/symasultana) | [Facebook](https://facebook.com/syma.sultana) | [Instagram](https://instagram.com/midnighttwinkle_)
-
+  
 ---
 
 ### 🛠️ Languages and Tools
