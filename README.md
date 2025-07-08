@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Syma</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3><p align="center">
+ <img src="https://i.redd.it/n4rr3aqcfgpe1.gif" width="100%" height="100%" />
  
 </p>
 
