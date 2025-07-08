@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Syma</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3><p align="center">
-  <img src="https://preview.redd.it/for-hire-pixel-art-commissions-open-landscape-portrait-v0-e11ryf5hfgpe1.gif?width=640&crop=smart&auto=webp&s=41b9a87c79dba653d6faee042910d7b6cab097c1" alt="Pixel GIF" width="100%" height="100%" />
+  <img src="https://preview.redd.it/for-hire-pixel-art-commissions-open-landscape-portrait-v0-e11ryf5hfgpe1.gif?width=640&crop=smart&auto=webp&s=41b9a87c79dba653d6faee042910d7b6cab097c1" alt="Pixel GIF" width="50%" height="50%" />
 </p>
 
 
