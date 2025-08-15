@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-- ✨ Full-Stack Developer with a strong grip on `JavaScript`, `React.js`, `Node.js`, and `Express.js`
+- ✨ Full-Stack Developer with a strong grip on `JavaScript`, `TypeScript`, `React.js`, and `Next.js`
 - 💬 Skilled in **MERN Stack, REST APIs, GraphQL, and building responsive UI**
 - ⚖️ Loves turning real-world problems into working solutions
 - 📚 Always learning and evolving in the world of tech
