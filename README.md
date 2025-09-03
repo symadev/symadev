@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://i.redd.it/n4rr3aqcfgpe1.gif" width="600" style="height: auto; border-radius: 10px;" />
+  <img src="https://i.redd.it/n4rr3aqcfgpe1.gif" width="800" style="height: auto; border-radius: 10px;" />
 </p>
 
 <p align="center">
