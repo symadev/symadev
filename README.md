@@ -17,9 +17,7 @@
 - 💬 Skilled in **MERN Stack, REST APIs, GraphQL, and building responsive UI**
 - ⚖️ Loves turning real-world problems into working solutions
 - 📚 Always learning and evolving in the world of tech
-
 ---
-
 ### 🛠️ Languages, Libraries & Tools  
 
 <p align="center">
@@ -38,10 +36,7 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,linux" height="48" alt="Git, VS Code, Linux" />
   <img src="https://skillicons.dev/icons?i=socketio" height="48" alt="WebSockets/Socket.io" />
 </p>
-
-
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
