@@ -75,3 +75,11 @@
 <p align="center">
   ⭐ Thank you for visiting my profile! Stay curious, stay creative, and keep building awesome things! ✨
 </p>
+
+
+---
+
+### 📈 Contribution Graph
+
+[![Syma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=symadev&bg_color=000000&color=7fff00&line=7fff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
