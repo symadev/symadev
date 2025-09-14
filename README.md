@@ -20,26 +20,23 @@
 
 ---
 
-### 🛠️ Languages, Libraries & Tools
+### 🛠️ Languages, Libraries & Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-TypeScript-070494?style=for-the-badge&logo=typescript&logoColor=FFFF00" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-9025fa?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-f55607?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="48" alt="JavaScript, TypeScript, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="48" alt="HTML, CSS, TailwindCSS" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="48" alt="React, Next.js, Node.js, Express.js" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux" height="48" alt="Git, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="48" alt="WebSockets/Socket.io" />
 </p>
 
 
