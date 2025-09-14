@@ -20,6 +20,7 @@
 ---
 ### 🛠️ Languages, Libraries & Tools  
 
+
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,python" height="48" alt="JavaScript, TypeScript, Python" />
@@ -39,7 +40,6 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -51,14 +51,23 @@
 
 ---
 
-### 📞 Connect with Me
+### 📞 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/symasultana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@symasultana02"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/symasultana" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/syma.sultana" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/midnighttwinkle_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@symasultana02" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="50" alt="Medium" />
+  </a>
 </p>
+
 
 ---
 
