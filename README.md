@@ -51,21 +51,27 @@
 
 ---
 
-### 📞 Connect with Me  
+### 📞 Connect with Me
 
 <p align="center">
+  <strong>Let's build something great — reach out 👇</strong>
+  <br /><br />
   <a href="https://linkedin.com/in/symasultana" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f12" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://facebook.com/syma.sultana" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Follow%20me-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0b0f12" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/midnighttwinkle_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@midnighttwinkle_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f12" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://medium.com/@symasultana02" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="50" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Read%20my%20articles-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0f12" alt="Medium" />
   </a>
+  
 </p>
 
 
