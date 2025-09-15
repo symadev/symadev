@@ -18,8 +18,7 @@
 - ⚖️ Loves turning real-world problems into working solutions
 - 📚 Always learning and evolving in the world of tech
 ---
-### 🛠️ Languages, Libraries & Tools  
-
+### 🛠️ Languages, Libraries & Tools 
 
 <p align="center">
   <!-- Languages -->
@@ -37,8 +36,8 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,linux" height="48" alt="Git, VS Code, Linux" />
   <img src="https://skillicons.dev/icons?i=socketio" height="48" alt="WebSockets/Socket.io" />
 </p>
-
 ---
+
 
 ### 📊 GitHub Stats
 
