@@ -35,12 +35,17 @@
 ---
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?userusername=symadev&theme=radical&hide_border=true" />
+  <!-- Overall Stats -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" />
+
+  <!-- Most Used Languages -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+  <!-- Contribution Streak -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" />
 </p>
 
 
