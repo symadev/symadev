@@ -17,7 +17,9 @@
 - 💬 Skilled in **MERN Stack, REST APIs, GraphQL, and building responsive UI**
 - ⚖️ Loves turning real-world problems into working solutions
 - 📚 Always learning and evolving in the world of tech
+
 ---
+
 ### 🛠️ Languages, Libraries & Tools 
 
 <p align="center">
@@ -38,6 +40,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -52,7 +55,8 @@
 ### 📞 Connect with Me
 
 <p align="center">
-
+  <strong>Let's build something great — reach out 👇</strong>
+  <br /><br />
   <a href="https://linkedin.com/in/symasultana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f12" alt="LinkedIn" />
   </a>
@@ -68,9 +72,7 @@
   <a href="https://medium.com/@symasultana02" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read%20my%20articles-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0f12" alt="Medium" />
   </a>
-  
 </p>
-
 
 ---
 
@@ -79,11 +81,7 @@
 </p>
 
 ---
+
 <p align="center">
   ⭐ Thank you for visiting my profile! Stay curious, stay creative, and keep building awesome things! ✨
 </p>
-
-
-
-
-
