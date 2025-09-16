@@ -40,7 +40,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?userusername=symadev&theme=radical&hide_border=true" />
 </p>
 
 
