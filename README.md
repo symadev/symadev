@@ -37,14 +37,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Try alternative GitHub stats services -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=symadev&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&title_color=ff6ec7&icon_color=ffcc70" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&bg_color=00000000&hide_border=true&title_color=ff6ec7" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=symadev&theme=radical&hide_border=true&background=00000000&ring=ffcc70&fire=ff6ec7&currStreakLabel=ffffff" />
-</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=symadev&theme=radical)
+
+</div>
 ---
+
 
 ### 📞 Connect with Me
 <p align="center">
