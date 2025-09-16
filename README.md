@@ -39,14 +39,15 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
 
   <!-- Most Used Languages -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" />
 
   <!-- Contribution Streak -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true&background=00000000" />
 </p>
+
 
 
 
