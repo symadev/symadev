@@ -52,8 +52,7 @@
 ### 📞 Connect with Me
 
 <p align="center">
-  <strong>Let's build something great — reach out 👇</strong>
-  <br /><br />
+
   <a href="https://linkedin.com/in/symasultana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f12" alt="LinkedIn" />
   </a>
