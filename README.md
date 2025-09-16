@@ -34,17 +34,15 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" />
+</p>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=symadev&theme=radical&hide_border=true" />
-
-</div>
 
 
 ---
