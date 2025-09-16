@@ -36,15 +36,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical)  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical)  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=symadev&theme=radical)
+  <img height="180em" src="https://streak-stats.demolab.com?user=symadev&theme=radical&hide_border=true" />
 
 </div>
+
+
 ---
 
 
