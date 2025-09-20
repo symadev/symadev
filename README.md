@@ -17,15 +17,16 @@
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+### 🛠️ Languages, Libraries & Tools  
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,python,vscode,github,spring" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind" height="48" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,express,mongodb,c,java,postgres,nextjs,aws" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,mongodb,git,vscode,linux,socketio" height="48" />
 </p>
+
 
 
 
