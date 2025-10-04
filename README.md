@@ -28,11 +28,12 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,react,nextjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind" height="48" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,websocket,docker,git,vscode,linux" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,mongodb,git,vscode,linux,socketio,docker" height="48" />
 </p>
+
 
 
 
