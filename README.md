@@ -10,10 +10,17 @@
 ---
 
 ### 👩‍💻 About Me
-- ✨ Full-Stack Developer with a strong grip on `JavaScript`, `TypeScript`, `React.js`, and `Next.js`
-- 💬 Skilled in **MERN Stack, REST APIs, GraphQL, and building responsive UI**
-- ⚖️ Loves turning real-world problems into working solutions
-- 📚 Always learning and evolving in the world of tech
+-🚀 Full-Stack & AI Developer passionate about building intelligent, scalable web applications
+
+-💡 Skilled in JavaScript, TypeScript, React.js, Next.js, and the MERN Stack for creating modern, dynamic user experiences
+
+-🤖 Experienced in integrating AI technologies — including LLMs, RAG, Vector Databases, Agents, and Tokenization pipelines — into production-ready apps
+
+-⚙️ Strong understanding of REST APIs, GraphQL, and backend development with Node.js, Express, and MongoDB
+
+-🧠 Enthusiastic about combining software engineering with machine intelligence to craft smarter user experiences
+
+-🌱 Continuously learning and experimenting with LangChain, FastAPI, and AI-driven product design
 
 ---
 
