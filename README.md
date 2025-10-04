@@ -34,7 +34,7 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color="pink" />
 
   <!-- Most Used Languages -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" />
