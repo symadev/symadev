@@ -10,7 +10,6 @@
 ---
 
 ### 👩‍💻 About Me
-👩‍💻 About Me
 
 🚀 Full-Stack & AI Developer crafting intelligent, scalable web experiences
 
