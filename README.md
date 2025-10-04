@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,react,nextjs" height="60" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,socketio,docker,git,vscode,linux" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,websocket,docker,git,vscode,linux" height="60" />
 </p>
 
 
