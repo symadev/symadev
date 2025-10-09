@@ -1,14 +1,10 @@
-Hi, I'm Syma 👋
-Full-Stack Developer • AI Enthusiast • Problem Solver
-I build intelligent, scalable web experiences powered by modern tech.
+<h1 align="center">Hi 👋, I'm Syma</h1>
+<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/symasultana"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/syma.sultana"><img src="https://img.shields.io/badge/FACEBOOK-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/midnighttwinkle_"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://medium.com/@symasultana02"><img src="https://img.shields.io/badge/MEDIUM-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img src="https://i.redd.it/n4rr3aqcfgpe1.gif" width="600" style="height: auto; border-radius: 10px;" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=symadev&label=Profile+Views&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile view counter" />
 </p>
 ---
 
