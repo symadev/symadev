@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind" height="48" />
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,mongodb,git,vscode,linux,socketio,docker" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,mongodb,git,vscode,linux,docker" height="48" />
 </p>
 
 
@@ -80,11 +80,7 @@
 
 ---
 
-<p align="center">
-   I'm currently working on <a href="https://github.com/symadev/realcodelab">realcodelab</a> ✨
-</p>
 
----
 
 <p align="center">
   ⭐ Thank you for visiting my profile! Stay curious, stay creative, and keep building awesome things! ✨
