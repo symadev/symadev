@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
-       width="800" 
-       height="600" 
+       width="600" 
+       height="500" 
        style="border-radius:10px; object-fit:cover;" 
        alt="Coding animation" />
 </p>
