@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
-       width="500" 
+       width="400" 
        height="400" 
        style="border-radius:10px; object-fit:cover;" 
        alt="Coding animation" />
