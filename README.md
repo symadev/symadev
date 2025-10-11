@@ -2,11 +2,15 @@
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/f2ogUXh7518AAAAM/glu-seizon.gif" width="600" style="height:auto; border-radius:10px;" alt="Coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG42OWl3NWE2eW9sNHJkZmVrNDFuYjU3c2RiNmtxa2loZGV2dGM2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif" 
+       width="600" 
+       style="height:auto; border-radius:10px;" 
+       alt="Coding animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" 
+       alt="Profile views counter" />
 </p>
 
 ---
