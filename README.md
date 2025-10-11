@@ -3,10 +3,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
-       width="600" 
-       style="height:auto; border-radius:10px;" 
+       height="600" 
+       style="width:auto; border-radius:10px;" 
        alt="Coding animation" />
 </p>
+
 
 
 <p align="center">
