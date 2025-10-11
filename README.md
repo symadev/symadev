@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Syma</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+
 <p align="center">
-  <img src="https://i.redd.it/n4rr3aqcfgpe1.gif](https://media.tenor.com/f2ogUXh7518AAAAM/glu-seizon.gif" width="600" style="height: auto; border-radius: 10px;" />
+  <img src="https://media.tenor.com/f2ogUXh7518AAAAM/glu-seizon.gif" width="600" style="height:auto; border-radius:10px;" alt="Coding animation" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile views counter" />
 </p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -23,6 +26,7 @@
 
 
 ---
+
 
 ### 🛠️ Languages, Libraries & Tools  
 
