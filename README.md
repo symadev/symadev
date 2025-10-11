@@ -2,11 +2,12 @@
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG42OWl3NWE2eW9sNHJkZmVrNDFuYjU3c2RiNmtxa2loZGV2dGM2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif" 
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
        width="600" 
        style="height:auto; border-radius:10px;" 
        alt="Coding animation" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" 
