@@ -117,7 +117,6 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
 
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages**
@@ -145,7 +144,9 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
   <img src="https://skillicons.dev/icons?i=git,vscode,linux,postman,figma" height="40" />
 </p>
 
-**AI Technologies:** LangChain • OpenAI API • Qdrant • Vector Embeddings • RAG
+### **AI Technologies**
+LangChain • OpenAI API • Qdrant • Vector Embeddings • RAG
+
 
 ---
 
