@@ -56,7 +56,7 @@ An intelligent chatbot application powered by **Retrieval-Augmented Generation (
 
 **🔗 Links:**
 - 🌐 **Live Demo:** [chatbridge-lemon.vercel.app](https://chatbridge-lemon.vercel.app/)
-- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/chatbridge-frontend)
+- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/chatbridge)
 - ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/chatbridge-backend)
 
 ---
