@@ -68,28 +68,6 @@ An intelligent chatbot application powered by **Retrieval-Augmented Generation (
 
 ---
 
-### 👨‍💻 [RealCodeLab – Collaborative Real-Time Code Editor](https://youtu.be/_DaYawL560o)
-
-A powerful real-time collaborative code editor with Monaco Editor integration, supporting multiple users coding simultaneously with live synchronization and code execution.
-
-**🛠️ Tech Stack:**
-- **Frontend:** Vanilla JavaScript, Monaco Editor, Yjs
-- **Backend:** Node.js, WebSockets
-- **APIs:** Judge Rapid API for code execution
-
-**✨ Key Features:**
-- ✅ Real-time collaborative editing
-- ✅ Syntax highlighting for 50+ languages
-- ✅ Live cursor tracking
-- ✅ Code execution & testing
-- ✅ WebSocket-based synchronization
-
-**🔗 Links:**
-- 🎥 **Video Demo:** [YouTube](https://youtu.be/_DaYawL560o)
-- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/realcodelab)
-- ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/realcodelab-backend)
-
----
 
 ### 📚 [EduHalo – Smart School Management System](https://eduhalo.vercel.app/)
 
@@ -111,6 +89,32 @@ An intelligent school management system for tracking homework, attendance, and s
 - 🌐 **Live Demo:** [eduhalo.vercel.app](https://eduhalo.vercel.app/)
 - 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/eduhalo)
 - ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/edu-server)
+
+
+---
+ 
+
+### 👨‍💻 [RealCodeLab – Collaborative Real-Time Code Editor](https://youtu.be/_DaYawL560o)
+
+A powerful real-time collaborative code editor with Monaco Editor integration, supporting multiple users coding simultaneously with live synchronization and code execution.
+
+**🛠️ Tech Stack:**
+- **Frontend:** Vanilla JavaScript, Monaco Editor, Yjs
+- **Backend:** Node.js, WebSockets
+- **APIs:** Judge Rapid API for code execution
+
+**✨ Key Features:**
+- ✅ Real-time collaborative editing
+- ✅ Syntax highlighting for 50+ languages
+- ✅ Live cursor tracking
+- ✅ Code execution & testing
+- ✅ WebSocket-based synchronization
+
+**🔗 Links:**
+- 🎥 **Video Demo:** [YouTube](https://youtu.be/_DaYawL560o)
+- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/realcodelab)
+- ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/realcodelab-backend)
+
 
 ---
 
