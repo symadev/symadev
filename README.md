@@ -117,35 +117,9 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
 
 
 ---
-## 🛠️ Tech Stack & Tools
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" height="40" />
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="40" />
-</p>
-
-### **Databases & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,vercel" height="40" />
-</p>
-
-### **AI/ML & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,postman,figma" height="40" />
-</p>
-
-### **AI Technologies**
-LangChain • OpenAI API • Qdrant • Vector Embeddings • RAG
+🛠️ Tech Stack & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,redux,nodejs,express,fastapi,graphql,mongodb,postgres,redis,docker,vercel,git,vscode,linux,postman,figma" height="40" /> </p>
+<p align="center"> <b>AI:</b> LangChain • OpenAI API • Qdrant • Vector Embeddings • RAG </p>
 
 
 ---
