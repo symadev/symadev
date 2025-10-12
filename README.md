@@ -53,13 +53,6 @@ An intelligent chatbot application powered by **Retrieval-Augmented Generation (
 - **Databases:** Qdrant (Vector DB), MongoDB Atlas
 - **DevOps:** Docker, Render, Vercel
 
-**✨ Key Features:**
-- ✅ RAG-powered document understanding
-- ✅ Semantic search using vector embeddings
-- ✅ Real-time chat with AI
-- ✅ JWT authentication & authorization
-- ✅ Chat history persistence
-- ✅ Source attribution with page numbers
 
 **🔗 Links:**
 - 🌐 **Live Demo:** [chatbridge-lemon.vercel.app](https://chatbridge-lemon.vercel.app/)
@@ -78,12 +71,6 @@ An intelligent school management system for tracking homework, attendance, and s
 - **Backend:** Node.js, Express, GraphQL
 - **Database:** MongoDB, Mongoose
 
-**✨ Key Features:**
-- ✅ Role-based access (Teachers, Parents, Students)
-- ✅ Homework assignment & tracking
-- ✅ Real-time attendance monitoring
-- ✅ Performance analytics dashboard
-- ✅ GraphQL API for efficient queries
 
 **🔗 Links:**
 - 🌐 **Live Demo:** [eduhalo.vercel.app](https://eduhalo.vercel.app/)
@@ -103,12 +90,6 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
 - **Backend:** Node.js, WebSockets
 - **APIs:** Judge Rapid API for code execution
 
-**✨ Key Features:**
-- ✅ Real-time collaborative editing
-- ✅ Syntax highlighting for 50+ languages
-- ✅ Live cursor tracking
-- ✅ Code execution & testing
-- ✅ WebSocket-based synchronization
 
 **🔗 Links:**
 - 🎥 **Video Demo:** [YouTube](https://youtu.be/_DaYawL560o)
