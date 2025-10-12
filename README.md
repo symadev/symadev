@@ -107,16 +107,19 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <!-- Overall Stats -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000" />
+
+  <!-- Most Used Languages -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" />
+
+  <!-- Contribution Streak -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true&background=00000000" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 ---
