@@ -29,7 +29,7 @@
 
 ---
 
-## 💡 About Me
+## 👩🏻 About Me
 
 🚀 Full-Stack & AI Developer crafting intelligent, scalable web experiences  
 💻 Proficient in **JavaScript, TypeScript, Python, React.js, Next.js, and MERN Stack**  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Key Projects
 
 ### 🤖 [ChatBridge – AI-Powered RAG Chat Application](https://chatbridge-lemon.vercel.app/)
 
