@@ -62,7 +62,7 @@ An intelligent chatbot application powered by **Retrieval-Augmented Generation (
 ---
 
 
-### 📚 [EduHalo – Smart School Management System](https://eduhalo.vercel.app/)
+### 📚 [EduHalo – Smart Homework & Attendance Tracker for Parents & Teachers](https://eduhalo.vercel.app/)
 
 An intelligent school management system for tracking homework, attendance, and student performance. Built with MERN Stack and GraphQL for efficient data management.
 
