@@ -160,9 +160,6 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=symadev&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
@@ -202,6 +199,4 @@ A powerful real-time collaborative code editor with Monaco Editor integration, s
   💡 Stay curious, keep learning, and build amazing things! ✨
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
