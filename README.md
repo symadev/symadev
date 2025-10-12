@@ -1,81 +1,177 @@
-<h1 align="center">Hi 👋, I'm Syma</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
-
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
        width="400" 
        height="400" 
        style="border-radius:10px; object-fit:cover;" 
        alt="Coding animation" />
-</p>
+</div>
 
+# Hi, I'm Syma 👋
 
-
+<h3 align="center">Full-Stack Developer • AI Enthusiast • Problem Solver</h3>
+<h4 align="center">I build intelligent, scalable web applications that solve real problems.</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=symadev&label=PROFILE+VIEWS&style=for-the-badge&color=blue" 
-       alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=symadev&label=Profile+Views&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://symaportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/symasultana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@symasultana02" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 💡 About Me
 
-🚀 Full-Stack & AI Developer crafting intelligent, scalable web experiences
+🚀 Full-Stack & AI Developer crafting intelligent, scalable web experiences  
+💻 Proficient in **JavaScript, TypeScript, Python, React.js, Next.js, and MERN Stack**  
+🤖 Passionate about building apps powered by **LLMs, RAG, LangChain & Vector Databases**  
+⚙️ Experienced with **REST APIs, GraphQL, FastAPI**, and modern backend architectures  
+🌱 Always exploring cutting-edge technologies in **AI development** and **Web3**  
+📍 Based in **Bangladesh**, open to remote opportunities worldwide
 
-💡 Skilled in JavaScript, TypeScript, React.js, Next.js, and the MERN Stack
+---
 
-🤖 Passionate about building apps powered by LLMs, RAG, Agents & Vector DBs
+## 🚀 Featured Projects
 
-⚙️ Experienced with REST APIs, GraphQL, and modern backend architectures
+### 🤖 [ChatBridge – AI-Powered RAG Chat Application](https://chatbridge-lemon.vercel.app/)
 
-🌱 Always exploring LangChain, FastAPI, and next-gen AI development
+An intelligent chatbot application powered by **Retrieval-Augmented Generation (RAG)** that allows users to chat with custom knowledge sources in real-time. Built with a modern tech stack and deployed on cloud platforms.
 
+**🛠️ Tech Stack:**
+- **Frontend:** React, Tailwind CSS, Zustand
+- **Backend:** Python, FastAPI, LangChain
+- **AI/ML:** OpenAI GPT-4, Vector Embeddings
+- **Databases:** Qdrant (Vector DB), MongoDB Atlas
+- **DevOps:** Docker, Render, Vercel
 
+**✨ Key Features:**
+- ✅ RAG-powered document understanding
+- ✅ Semantic search using vector embeddings
+- ✅ Real-time chat with AI
+- ✅ JWT authentication & authorization
+- ✅ Chat history persistence
+- ✅ Source attribution with page numbers
+
+**🔗 Links:**
+- 🌐 **Live Demo:** [chatbridge-lemon.vercel.app](https://chatbridge-lemon.vercel.app/)
+- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/chatbridge-frontend)
+- ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/chatbridge-backend)
+
+---
+
+### 👨‍💻 [RealCodeLab – Collaborative Real-Time Code Editor](https://youtu.be/_DaYawL560o)
+
+A powerful real-time collaborative code editor with Monaco Editor integration, supporting multiple users coding simultaneously with live synchronization and code execution.
+
+**🛠️ Tech Stack:**
+- **Frontend:** Vanilla JavaScript, Monaco Editor, Yjs
+- **Backend:** Node.js, WebSockets
+- **APIs:** Judge Rapid API for code execution
+
+**✨ Key Features:**
+- ✅ Real-time collaborative editing
+- ✅ Syntax highlighting for 50+ languages
+- ✅ Live cursor tracking
+- ✅ Code execution & testing
+- ✅ WebSocket-based synchronization
+
+**🔗 Links:**
+- 🎥 **Video Demo:** [YouTube](https://youtu.be/_DaYawL560o)
+- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/realcodelab)
+- ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/realcodelab-backend)
+
+---
+
+### 📚 [EduHalo – Smart School Management System](https://eduhalo.vercel.app/)
+
+An intelligent school management system for tracking homework, attendance, and student performance. Built with MERN Stack and GraphQL for efficient data management.
+
+**🛠️ Tech Stack:**
+- **Frontend:** React, Context API, Tailwind CSS
+- **Backend:** Node.js, Express, GraphQL
+- **Database:** MongoDB, Mongoose
+
+**✨ Key Features:**
+- ✅ Role-based access (Teachers, Parents, Students)
+- ✅ Homework assignment & tracking
+- ✅ Real-time attendance monitoring
+- ✅ Performance analytics dashboard
+- ✅ GraphQL API for efficient queries
+
+**🔗 Links:**
+- 🌐 **Live Demo:** [eduhalo.vercel.app](https://eduhalo.vercel.app/)
+- 💻 **Frontend:** [GitHub Repository](https://github.com/symadev/eduhalo)
+- ⚙️ **Backend:** [GitHub Repository](https://github.com/symadev/edu-server)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" height="40" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="40" />
+</p>
+
+### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,vercel" height="40" />
+</p>
+
+### **AI/ML & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,postman,figma" height="40" />
+</p>
+
+**AI Technologies:** LangChain • OpenAI API • Qdrant • Vector Embeddings • RAG
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=symadev&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
 
-### 🛠️ Languages, Libraries & Tools  
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind" height="48" />
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,mongodb,git,vscode,linux,docker" height="48" />
-</p>
-
-
-
-
-
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <!-- Overall Stats -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=symadev&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000" />
-
-  <!-- Most Used Languages -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symadev&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" />
-
-  <!-- Contribution Streak -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=symadev&theme=radical&hide_border=true&background=00000000" />
-</p>
-
-
-
-
-
----
-
-
-### ☎️ Connect with Me  
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/symasultana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:symasultana02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://facebook.com/syma.sultana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -86,13 +182,22 @@
   <a href="https://medium.com/@symasultana02" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="https://symaportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
 
 ---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
 <p align="center">
-  ⭐ Thank you for visiting my profile! Stay curious, stay creative, and keep building awesome things! ✨
+  ⭐ <strong>Thank you for visiting my profile!</strong> ⭐<br>
+  💡 Stay curious, keep learning, and build amazing things! ✨
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
