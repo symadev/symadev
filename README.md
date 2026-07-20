@@ -51,7 +51,7 @@ An intelligent chatbot application powered by **Retrieval-Augmented Generation (
 **🛠️ Tech Stack:**
 - **Frontend:** React, Tailwind CSS, Zustand
 - **Backend:** Python, FastAPI, LangChain
-- **AI/ML:** OpenAI GPT-4, Vector Embeddings
+- **AI/ML:** OpenAI GPT-5, Vector Embeddings
 - **Databases:** Qdrant (Vector DB), MongoDB Atlas
 - **DevOps:** Docker, Render, Vercel
 
